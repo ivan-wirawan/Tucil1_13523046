@@ -1,0 +1,8 @@
+ABCDD
+ABCCC
+ABBBB
+AAAAA
+
+Informasi Proses Penyelesaian:
+Waktu proses: 12655 ms
+Jumlah percobaan: 4

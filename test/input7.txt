@@ -1,0 +1,18 @@
+8 4 7
+DEFAULT
+AAA
+A
+BB
+BBB
+BBB
+C
+DD
+E
+EE
+EE
+FF
+FF
+G
+G
+GGG
+GGG

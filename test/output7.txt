@@ -1,0 +1,8 @@
+AAABBCFF
+AGGBBBFF
+DGGBBBEE
+DGGGGEEE
+
+Informasi Proses Penyelesaian:
+Waktu proses: 16456 ms
+Jumlah percobaan: 683

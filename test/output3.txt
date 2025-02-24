@@ -1,0 +1,7 @@
+ABC
+DEF
+GHI
+
+Informasi Proses Penyelesaian:
+Waktu proses: 10952 ms
+Jumlah percobaan: 9

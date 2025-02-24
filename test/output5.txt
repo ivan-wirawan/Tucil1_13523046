@@ -1,0 +1,7 @@
+CCC
+ABC
+AAA
+
+Informasi Proses Penyelesaian:
+Waktu proses: 19457 ms
+Jumlah percobaan: 12

@@ -1,0 +1,6 @@
+AC
+BB
+
+Informasi Proses Penyelesaian:
+Waktu proses: 9579 ms
+Jumlah percobaan: 3

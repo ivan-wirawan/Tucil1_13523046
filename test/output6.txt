@@ -1,0 +1,9 @@
+AA
+BC
+BC
+DD
+DD
+
+Informasi Proses Penyelesaian:
+Waktu proses: 12808 ms
+Jumlah percobaan: 4

@@ -1,0 +1,9 @@
+AGGGD
+AABDD
+CCBBE
+CFFEE
+FFFEE
+
+Informasi Proses Penyelesaian:
+Waktu proses: 5594 ms
+Jumlah percobaan: 7393
